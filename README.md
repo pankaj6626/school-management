@@ -31,8 +31,7 @@ This is a School Management System built using the MERN (MongoDB, Express.js, Re
 
 1. **Clone the repository:**
 
-git clone https://github.com/yatunyi15075/mern-school-management-system.git
-
+git clone https://github.com/pankaj6626/school-management.git
 
 2. **Install dependencies:**
 
